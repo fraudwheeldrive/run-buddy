@@ -14,3 +14,5 @@ https://lernantino.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by [Andrew Core]
+
+### ©️2019 Run Buddy, Inc 
